@@ -6,7 +6,7 @@ export default function ContactPage() {
   return (
     <div className="flex flex-col md:flex-row mx-5 md:mx-20 bg-white overflow-hidden md:mt-20 mt-10">
       {/* Left - Form */}
-      <div className="w-full md:w-[45%] md:mr-6 p-6 md:p-10 flex flex-col justify-center bg-[#DEE8DC] rounded-tr-3xl rounded-br-3xl md:rounded-bl-none rounded-bl-3xl">
+      <div className="w-full md:w-[45%] md:mr-6 p-6 md:p-10 flex flex-col justify-center bg-[#DEE8DC]  rounded-[10px]">
         <h2 className="text-2xl md:text-3xl font-bold text-[#0A0A0A] mb-2">Contact Our Team</h2>
         <p className="text-gray-600 mb-8">Ready to start? Let’s chat about how we can help</p>
 
@@ -73,13 +73,13 @@ export default function ContactPage() {
       </div>
 
       {/* Right - Image */}
-      <div className="w-full md:w-[55%] h-[300px] md:h-auto relative mt-4 md:mt-0">
+      <div className="w-full md:w-[55%] h-[300px] md:h-auto relative mt-4 md:mt-0  rounded-[10px]">
         <Image
           src="https://res.cloudinary.com/dq2onzzcd/image/upload/v1744019401/vegalland/7df3958f-7a8a-4d10-abc4-2b4267c71f74.png"
           alt="Hero"
           objectFit="cover"
           fill
-          className="rounded-tl-3xl md:rounded-tl-3xl md:rounded-bl-3xl"
+          className="rounded-[10px]"
         />
       </div>
     </div>
