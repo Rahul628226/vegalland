@@ -5,18 +5,18 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const bannerData = [
   {
     id: 1,
-    desktopImage: 'https://res.cloudinary.com/dq2onzzcd/image/upload/v1744016471/vegalland/0c0bd693-2c15-4c54-b13c-a07fff2ab4c3.png',
-    mobileImage: 'https://res.cloudinary.com/dq2onzzcd/image/upload/v1744016471/vegalland/0c0bd693-2c15-4c54-b13c-a07fff2ab4c3.png',
+    desktopImage: 'https://res.cloudinary.com/dq2onzzcd/image/upload/v1744083166/vegalland/19e18884-5ff5-4bc7-baf9-d204d7b7e680.png',
+    mobileImage: 'https://res.cloudinary.com/dq2onzzcd/image/upload/v1744083166/vegalland/19e18884-5ff5-4bc7-baf9-d204d7b7e680.png',
   },
   {
     id: 2,
-    desktopImage: 'https://res.cloudinary.com/dq2onzzcd/image/upload/v1744016471/vegalland/0c0bd693-2c15-4c54-b13c-a07fff2ab4c3.png',
-    mobileImage: 'https://res.cloudinary.com/dq2onzzcd/image/upload/v1744016471/vegalland/0c0bd693-2c15-4c54-b13c-a07fff2ab4c3.png',
+    desktopImage: 'https://res.cloudinary.com/dq2onzzcd/image/upload/v1744083166/vegalland/19e18884-5ff5-4bc7-baf9-d204d7b7e680.png',
+    mobileImage: 'https://res.cloudinary.com/dq2onzzcd/image/upload/v1744083166/vegalland/19e18884-5ff5-4bc7-baf9-d204d7b7e680.png',
   },
   {
     id: 3,
-    desktopImage: 'https://res.cloudinary.com/dq2onzzcd/image/upload/v1744016471/vegalland/0c0bd693-2c15-4c54-b13c-a07fff2ab4c3.png',
-    mobileImage: 'https://res.cloudinary.com/dq2onzzcd/image/upload/v1744016471/vegalland/0c0bd693-2c15-4c54-b13c-a07fff2ab4c3.png',
+    desktopImage: 'https://res.cloudinary.com/dq2onzzcd/image/upload/v1744083166/vegalland/19e18884-5ff5-4bc7-baf9-d204d7b7e680.png',
+    mobileImage: 'https://res.cloudinary.com/dq2onzzcd/image/upload/v1744083166/vegalland/19e18884-5ff5-4bc7-baf9-d204d7b7e680.png',
   },
 ];
 
