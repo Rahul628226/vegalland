@@ -16,7 +16,6 @@ export default function ContactPage() {
             <label className="font-bold text-black mb-1">First Name</label>
             <input
               type="text"
-              placeholder="First Name"
               className="p-3 rounded-md  bg-white focus:outline-none focus:ring-2 focus:ring-yellow-400"
             />
           </div>
@@ -24,7 +23,6 @@ export default function ContactPage() {
             <label className="font-bold text-black mb-1">Last Name</label>
             <input
               type="text"
-              placeholder="Last Name"
               className="p-3 rounded-md bg-white focus:outline-none focus:ring-2 focus:ring-yellow-400"
             />
           </div>
@@ -34,7 +32,6 @@ export default function ContactPage() {
           <label className="font-bold text-black mb-1 block">Email</label>
           <input
             type="email"
-            placeholder="Email"
             className="w-full p-3 rounded-md bg-white  focus:outline-none focus:ring-2 focus:ring-yellow-400"
           />
         </div>
@@ -43,7 +40,6 @@ export default function ContactPage() {
           <label className="font-bold text-black mb-1 block">Phone</label>
           <input
             type="tel"
-            placeholder="Phone"
             className="w-full p-3 rounded-md bg-white  focus:outline-none focus:ring-2 focus:ring-yellow-400"
           />
         </div>
