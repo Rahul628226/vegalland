@@ -9,7 +9,7 @@ export default function Header() {
 
     return (
         <header className="absolute top-0 left-0 z-50 w-full px-6 py-8 bg-transparent">
-            <div className=" mx-10 flex items-center justify-between relative">
+            <div className=" md:mx-10 flex items-center justify-between relative">
                 {/* Hamburger - Mobile Only */}
 
                 {!isMenuOpen && (
